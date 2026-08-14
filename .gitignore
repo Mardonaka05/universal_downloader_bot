@@ -1,0 +1,51 @@
+# Secrets — never commit
+.env
+.env.local
+*.key
+*.pem
+secrets.json
+credentials/
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.venv/
+venv/
+env/
+build/
+dist/
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+
+# Downloads / temporary media
+downloads/
+tmp/
+temp/
+cache/
+*.mp4
+*.avi
+*.mkv
+*.mp3
+*.webm
+
+# Databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs
+logs/
+*.log
+
+# IDE / editors
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini

@@ -1,4 +1,4 @@
-# Universal Downloader Bot
+﻿# Universal Downloader Bot
 
 A Telegram bot that downloads video and audio from Instagram and YouTube links — no watermarks, no ads.
 
@@ -8,7 +8,7 @@ A Telegram bot that downloads video and audio from Instagram and YouTube links �
   <img src="https://img.shields.io/badge/status-source%20upload%20in%20progress-orange?style=flat-square">
 </p>
 
-> **Status:** the bot runs privately; the source is being cleaned of credentials before it is published here.
+
 
 ---
 
@@ -38,7 +38,7 @@ User sends link
                                       cleanup
 ```
 
-## Planned repository layout
+## Repository layout
 
 ```
 bot.py              # aiogram entrypoint, handlers

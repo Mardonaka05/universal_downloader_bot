@@ -1,5 +1,5 @@
 aiogram==3.20.0.post0
-aiohttp==3.11.18
+aiohttp==3.14.4
 python-dotenv==1.1.0
 asyncio==3.4.3
 pymongo==4.13.0
